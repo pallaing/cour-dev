@@ -1,0 +1,36 @@
+body {
+
+	font-family: verdana;
+}
+
+p {
+
+	margin:20px auto;
+	width: 70%;
+
+}
+
+h2 {
+
+	margin:20px auto;
+	width:50%;
+
+}
+
+table {
+
+	margin:20px auto;
+	width:50%;
+	border: 3px solid #EDEDED;
+}
+
+th {
+
+	background-color: #F2F2F2;
+
+}
+
+ td.ligne { 
+background-color: #EAE9E6;
+
+  }
